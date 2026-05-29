@@ -1,0 +1,19 @@
+========================================
+           PARAGON FISKALNY
+========================================
+Data: 2026-05-29 15:37:29
+Stolik: 1
+Obsługa: sjdhnfvb sdfsdf
+----------------------------------------
+Puchar Lodowy x1 - 18,00 zł
+Sernik domowy x1 - 15,00 zł
+Tatar wołowy x1 - 35,00 zł
+Bruschetta x1 - 18,00 zł
+Pizza Margherita x1 - 30,00 zł
+Kotlet Schabowy x1 - 28,00 zł
+Sok pomarańczowy x1 - 8,00 zł
+Kawa Espresso x1 - 10,00 zł
+----------------------------------------
+RAZEM BRUTTO: 162,00 zł
+Metoda płatności: Karta
+========================================

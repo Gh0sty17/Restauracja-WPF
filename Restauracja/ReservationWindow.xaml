@@ -1,0 +1,15 @@
+﻿<Window x:Class="Restauracja.ReservationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rezerwacja Stolika" Height="250" Width="300" WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="15">
+        <TextBlock x:Name="lblTitle" FontWeight="Bold" Margin="0,0,0,10"/>
+        <TextBlock Text="Data (RRRR-MM-DD):"/>
+        <TextBox x:Name="txtDate" Margin="0,2,0,10"/>
+        <TextBlock Text="Godzina (GG:MM):"/>
+        <TextBox x:Name="txtTime" Margin="0,2,0,10"/>
+        <TextBlock Text="Nazwisko gościa:"/>
+        <TextBox x:Name="txtGuest" Margin="0,2,0,15"/>
+        <Button Content="Zatwierdź Rezerwację" Click="BtnConfirm_Click" Background="DarkGreen" Foreground="White"/>
+    </StackPanel>
+</Window>
