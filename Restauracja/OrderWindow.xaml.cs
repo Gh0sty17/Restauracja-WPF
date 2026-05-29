@@ -18,10 +18,10 @@ namespace Restauracja
             _currentTable = table;
             this.Title = $"Zamówienie - Stolik {table.Number}";
 
-            // Ładowanie unikalnych nazw kategorii ze słownika
+            
             comboCategories.ItemsSource = App.Menu.Keys.ToList();
 
-            // POPRAWKA: Wymuszenie wyboru pierwszej pozycji ("Przystawki") zaraz po otwarciu okna
+           
             if (comboCategories.Items.Count > 0)
             {
                 comboCategories.SelectedIndex = 0;
